@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B39BEA127FA8EC3008506C3 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B39BEA027FA8EC3008506C3 /* PageControl.swift */; };
 		92A1CFA827F53F4C001689F4 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A1CFA727F53F4C001689F4 /* Tests_iOS.swift */; };
 		92A1CFAA27F53F4C001689F4 /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A1CFA927F53F4C001689F4 /* Tests_iOSLaunchTests.swift */; };
 		92A1CFB427F53F4C001689F4 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A1CFB327F53F4C001689F4 /* Tests_macOS.swift */; };
@@ -67,6 +68,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6B39BEA027FA8EC3008506C3 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		92A1CF8F27F53F49001689F4 /* SwiftDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemoApp.swift; sourceTree = "<group>"; };
 		92A1CF9027F53F49001689F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		92A1CF9127F53F4C001689F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -317,6 +319,7 @@
 				92A26FD627F8489D00EB0DC6 /* PageViewController.swift */,
 				92A26FD827F84E9900EB0DC6 /* FeatureCard.swift */,
 				92A26FDA27F84FFF00EB0DC6 /* PageView.swift */,
+				6B39BEA027FA8EC3008506C3 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -491,6 +494,7 @@
 				92A26FB127F6FED800EB0DC6 /* LandmarkList.swift in Sources */,
 				92A26FC027F7F62800EB0DC6 /* HikeGraph.swift in Sources */,
 				92A26F9027F6CBE600EB0DC6 /* HexagonParameters.swift in Sources */,
+				6B39BEA127FA8EC3008506C3 /* PageControl.swift in Sources */,
 				92A1CFB927F53F4C001689F4 /* ContentView.swift in Sources */,
 				92A26FC927F8290800EB0DC6 /* CategoryItem.swift in Sources */,
 				92A1CFB727F53F4C001689F4 /* SwiftDemoApp.swift in Sources */,
